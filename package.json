@@ -1,0 +1,10 @@
+{
+  "name": "trivia-cli",
+  "version": "1.0.0",
+  "description": "A command-line trivia game with timers",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "node --test"
+  }
+}
